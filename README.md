@@ -5,6 +5,7 @@ Keito Murakamiが開発するiPhoneアプリの公式サイトです。
 - SwatchPocket: `/`
 - Stage Organizer: `/stage-organizer/`
 - Jump the Orbit: `/jump-the-orbit/`
+- Pattern Line: `/pattern-line/`
 
 各アプリについて、日本語・英語の紹介、プライバシーポリシー、利用規約、サポートページを掲載しています。
 
